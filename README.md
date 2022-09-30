@@ -1,6 +1,6 @@
-# my_project
+# bitcoinTicker
 
-A new Flutter project.
+Displays the live exchange rates of BTC, ETH and LTC cryptocurrencies in over 20+ most traded currencies.
 
 ## Getting Started
 
